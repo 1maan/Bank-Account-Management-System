@@ -13,7 +13,7 @@ This C program simulates a simple bank account management system. It allows user
 
 The program includes the following functions for bank activities:
 
-- `create_account()`: Creates a new bank account.
+- `createAccount()`: Creates a new bank account.
 - `deposit()`: Deposits funds into the specified account.
 - `withdraw()`: Withdraws funds from the specified account.
 - `displayAccountInfo()`: Displays account information, including balance.
